@@ -1,5 +1,7 @@
-# React-Calculator
+# React Calculator
 ### View Deploy: [Click Here](https://msj-react-calculator.netlify.app)
+
+[![React Calculator](https://github.com/Jaganath-MSJ/React-Calculator/blob/main/React%20Calculator.png)](https://msj-react-calculator.netlify.app)
 
 ## Build With
 This project was built using these technologies:
