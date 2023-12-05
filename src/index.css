@@ -1,7 +1,9 @@
-*, *::before, *::after {
+*,
+*::before,
+*::after {
   box-sizing: border-box;
   font-family: Goyham Rounded, sans-serif;
-  font-weight: normal ;
+  font-weight: normal;
 }
 
 body {
@@ -13,9 +15,4 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-}
-
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
 }
